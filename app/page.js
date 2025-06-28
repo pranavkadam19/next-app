@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
       <Head>
-        <title>John Doe - Portfolio</title>
+        <title>Pranav Kadam - Portfolio</title>
         <meta name="description" content="Personal portfolio of John Doe" />
         <link rel="icon" href="/favicon.ico" />
         <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
