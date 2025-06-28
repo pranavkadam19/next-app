@@ -12,7 +12,7 @@ export default function Home() {
 
       <header className="bg-blue-600 text-white py-6">
         <div className="mx-auto max-w-4xl px-4">
-          <h1 className="text-3xl font-bold">John Doe</h1>
+          <h1 className="text-3xl font-bold">Pranav kadam</h1>
           <p className="text-lg">Web Developer</p>
         </div>
       </header>
